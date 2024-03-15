@@ -3,7 +3,7 @@ import { Avatar } from '@chakra-ui/avatar';
 import React from 'react';
 import { IoMdFootball , IoMdLaptop} from "react-icons/io";
 import { BsInstagram } from 'react-icons/bs';
-import { CgMoreO } from 'react-icons/cg'
+import { CgMoreO } from 'react-icons/cg';
 
 const UserHeader = () => {
   return (
