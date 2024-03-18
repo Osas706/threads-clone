@@ -7,7 +7,6 @@ import Comment from '../components/Comment';
 const PostPage = () => {
     const [liked, setLiked] = useState(false);
 
-
   return (
     <>
        <Flex>
